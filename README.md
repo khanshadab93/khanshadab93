@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanshadab93
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Natural Language Processing
-- 💞️ I’m looking to collaborate on any kind of Machine Learning projects
+- 💞️ I’m looking to collaborate on any kind of Machine Learning projects\
+- Currently learning about Data Engineering
 - 📫 How to reach me: Connect with me on 1996.khansh@gmail.com or +91-7987371098
 
 <!---
